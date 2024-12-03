@@ -1,6 +1,9 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
+//added comments to check the github actions 
+
+
 @Component({
   selector: 'app-root',
   standalone: true,
